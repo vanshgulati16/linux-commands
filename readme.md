@@ -1,6 +1,6 @@
 # Linux Commands
 
-## Updated everyday
+### Updated everyday
 
 ```ls: List files and directories in the current directory.
 cd: Change directory to a specified location.
