@@ -1,4 +1,4 @@
-'''ls: List files and directories in the current directory.
+```ls: List files and directories in the current directory.
 cd: Change directory to a specified location.
 pwd: Print the current working directory.
 mkdir: Create a new directory.
@@ -8,4 +8,4 @@ mv: Move or rename files or directories.
 cat: Display the contents of a file.
 grep: Search for a pattern in files.
 chmod: Change the permissions of a file or directory.
-'''
+```
