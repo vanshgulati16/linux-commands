@@ -14,6 +14,6 @@ grep: Search for a pattern in files.
 chmod: Change the permissions of a file or directory.
 ```
 
-tar: Create or extract compressed archives.
+tar: Create or extract compressed archives. <br>
 `tar [options] [archive/file]`
 
