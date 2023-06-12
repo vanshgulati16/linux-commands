@@ -13,3 +13,7 @@ cat: Display the contents of a file.
 grep: Search for a pattern in files.
 chmod: Change the permissions of a file or directory.
 ```
+
+tar: Create or extract compressed archives.
+`tar [options] [archive/file]`
+
