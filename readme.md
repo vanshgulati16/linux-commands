@@ -2,21 +2,18 @@
 
 ### Updated everyday
 
-```ls: List files and directories in the current directory.
-cd: Change directory to a specified location.
-pwd: Print the current working directory.
-mkdir: Create a new directory.
-rm: Remove files or directories.
-cp: Copy files or directories.
-mv: Move or rename files or directories.
-cat: Display the contents of a file.
-grep: Search for a pattern in files.
-chmod: Change the permissions of a file or directory.
-```
+`whoami`: Gives detail about the user login as. <br>
+`whoami `
 
-tar: Create or extract compressed archives. <br>
-`tar [options] [archive/file]`
+`man`: Tells about the commands. <br>
+`man <command name>`
 
-`wget`: Download files from the web.
-`wget [URL]`
+`clear`: Clear the terminal.
+`clear`
+
+`pwd`: Tells the location we currently in.
+`pwd`
+
+`ls`: List the content of a folder
+`ls <file name>`
 
