@@ -17,3 +17,6 @@ chmod: Change the permissions of a file or directory.
 tar: Create or extract compressed archives. <br>
 `tar [options] [archive/file]`
 
+`wget`: Download files from the web.
+`wget [URL]`
+
