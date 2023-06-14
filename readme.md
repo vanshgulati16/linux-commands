@@ -15,12 +15,12 @@
 `pwd`
 
 `ls`: List the content of a folder. <br>
-`ls <file name>`
-`ls -a`: To explore all the files even hidden one's.
-`ls -l`: To expand and see all the details of the file/folders like dates etc.
-`ls -al`: To expand and show all the file/folders
+`ls <file name>`<br>
+`ls -a`: To explore all the files even hidden one's. <br>
+`ls -l`: To expand and see all the details of the file/folders like dates etc. <br>
+`ls -al`: To expand and show all the file/folders. <br>
 
-`cd `: To move from one to another file..
+`cd `: To move from one to another file. <br>
 `cd <file name>`
 
 
