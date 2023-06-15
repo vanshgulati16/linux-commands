@@ -43,7 +43,29 @@
 
 `mv`: to move directory.<br>
 `mv open open_pear`: this command can change up file name from pear to open_pear. <br>
-`mv open stuff`: move from one directory to another.
+`mv open stuff`: move from one directory to another. <br>
+
+`cp`: Copy files.<br>
+`cp journel.txt new_jounel.txt`: To make a copy in the same directory. <br>
+`cp -r <filename>`: to copy a directory. <br>
+
+`head`: Outputs the top 10 lines in a file. <br>
+`head file.txt -n 100`: To print out the top 100 lines of the file. <br>
+
+`tail`: outputs the last 10 lines of a file.<br>
+
+`>`: to get the output of a command in a file. <br>
+`pwd > today.txt`: it saves the output in today.txt file, but this commands just replaces the content of the file <br>
+`Note`: if the file does not exist in the directory, no problem it will create the file and store the output. <br>
+`>>`: If we use double right arrow then the content in the file will be updated line by line. <br>
+
+`cat`: Concatinate <br>
+`cat <filename>`: this will print out the contents of the file. <br>
+`cat <filename1> <filename2>`: To print out both files contents. <br>
+`cat file1 file2 file3 > fileEverything`: It concatenates all the files content into one file , here that is fileEverting. <br>
+
+`less`: Gives an interactive overview of the content saved inside the file. <br>
+`less file`: Gives an interactive vire of the content and we can search words also. <br>
 
 
 
