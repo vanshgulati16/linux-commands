@@ -61,7 +61,7 @@
 
 `cat`: Concatinate <br>
 `cat <filename>`: this will print out the contents of the file. <br>
-`cat <filename1> <filename2>`: To print out both file's contents. <br>
+`cat <filename1> <filename2>`: concatenate both the files and print out both file's contents. <br>
 `cat file1 file2 file3 > fileEverything`: It concatenates all the file's content into one file, here that is fileEverting. <br>
 
 `less`: Gives an interactive overview of the content saved inside the file. <br>
