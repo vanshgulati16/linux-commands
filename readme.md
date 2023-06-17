@@ -36,7 +36,7 @@
 `rm -v `: tell us what did it do. <br>
 `rm -r`: to remove directories. <br>
 `rm -ri`: interactively remove files. <br>
-`rm fruit car`: delete folders with files in them. <br>
+`rm -rf fruit car`: delete folders with files in them. <br>
 
 `open`: open the directories. <br>
 `open .`: to open current directory. <br>
@@ -50,7 +50,7 @@
 `cp -r <filename>`: to copy a directory. <br>
 
 `head`: Outputs the top 10 lines in a file. <br>
-`head file.txt -n 100`: To print out the top 100 lines of the file. <br>
+`head -n 100 file.txt `: To print out the top 100 lines of the file. <br>
 
 `tail`: outputs the last 10 lines of a file.<br>
 
